@@ -1,1 +1,1 @@
-# DeepLearning
+# General Deep Learning collection
