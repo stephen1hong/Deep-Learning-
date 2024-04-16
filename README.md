@@ -1,1 +1,1 @@
-# this collection contains Applied Generative AI and LLMs projects
+# This collection contains general deep learning projects
